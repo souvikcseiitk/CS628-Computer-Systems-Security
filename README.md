@@ -1,6 +1,6 @@
 CS 628: Computer Systems Security
 IIT Kanpur, CSE
-Credits:   3-0-0-0- [9]
+Credits:   3-0-0-0
 
 Instructor: Prof. Angshuman Karmakar
 
@@ -48,5 +48,5 @@ Assignment 4 – Packet Capture Analysis
 Problem Statement: You are provided with two '.PCAP' files that contain network traffic
 captured during web attacks involving SQL injection and Cross-Site Scripting (XSS). As a
 network analyst, your task is to analyze the provided .PCAP files and extract insights from the
-attacks. You can perform packet capture analysis using the Wireshark tool [1] by uploading the
-provided packet capture files and initiating your analysis [2].
+attacks. You can perform packet capture analysis using the Wireshark tool by uploading the
+provided packet capture files and initiating your analysis.
